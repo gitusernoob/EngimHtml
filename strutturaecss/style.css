@@ -1,0 +1,40 @@
+:root {
+    --bg-nav: #3b93ce;
+}
+
+nav {
+    background-color: var(--bg-nav);
+}
+
+main {
+    background-color: rgb(223, 101, 20);
+}
+
+aside {
+    background-color: purple;
+}
+
+
+/*selettori classi*/
+
+.primo {
+    background-color: rgb(165, 245, 16);
+    width: 200px;
+    height: 200px;
+}
+
+.secondo {
+    background-color: rgb(47, 133, 8);
+    width: 200px;
+    height: 200px;
+}
+
+.terzo {
+    background-color: rgb(2, 37, 2);
+    width: 200px;
+    height: 200px;
+}
+
+div{
+    background-color: rgb(13, 228, 243);
+}
